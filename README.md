@@ -25,7 +25,7 @@ Frontend: React, JavaScript, Tailwind CSS  <br/>
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/9410790f-ef1d-46c2-9552-d721b48e4691" />
 Cloud: AWS & GCP  <br/>
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/19b690e9-f705-4398-8815-fe7b2db1f998" />
-Databases: SQL & database management  <br/>
+Databases: MySQL, MongoDB, PostgreSQL  <br/>
 
 
 
