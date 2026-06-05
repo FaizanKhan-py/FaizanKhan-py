@@ -1,8 +1,4 @@
-<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&width=500&lines=Hi%2C+I'm+Faizan+Khan+%F0%9F%91%8B;CS+Student+%40+UCP+Lahore;AI+%7C+Computer+Vision+%7C+Deep+Learning;Django+%7C+Node.js+%7C+Express;React+%7C+Cloud+%7C+Full-Stack)
-
-</div>
 
 ---
 
